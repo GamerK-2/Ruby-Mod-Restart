@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "rubymod:ruby_ore",
+    "rubymod:ruby_ore_deepslate",
+    "rubymod:ruby_block",
+    "rubymod:cobalt_block",
+    "rubymod:cobalt_ore",
+    "rubymod:deepslate_cobalt_ore",
+    "rubymod:topaz_block",
+    "rubymod:topaz_ore",
+    "rubymod:amber_block",
+    "rubymod:resin_block"
+  ]
+}
